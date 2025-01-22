@@ -1,5 +1,5 @@
 # <span style="color:green">Tuck Everlasting Custom Practice Tracks</span>
-## <span style="color:#d3d3d3">Rehearsal Tracks for WCS’ Tuck Everlasting made by Jack Nicodemus. I hope these help with practicing! (made 01/21/2025)</span>
+## <span style="color:#808080">Rehearsal Tracks for WCS’ Tuck Everlasting made by Jack Nicodemus. I hope these help with practicing! (made 01/21/2025)</span>
 
 
 
@@ -191,7 +191,7 @@
 [Download "My Most Beautiful Day" Music](11_My_Most_Beautiful_Day.pdf)
 [Download "Beautiful Day (Part 2)" Music](12_Beautiful_Day_(Part_2).pdf)
 
-### From Attic to Porch
+### From Attic To Porch
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -206,7 +206,7 @@
 </body>
 </html>
 
-[Download "From Attic to Poarch" Music](13_From_Attic_To_Porch.pdf)
+[Download "From Attic To Porch" Music](13_From_Attic_To_Porch.pdf)
 
 ### Join the Parade Reprise
 <html lang="en">
@@ -223,6 +223,8 @@
 </body>
 </html>
 
+[Download "Join The Parade (Reprise)" Music](14_Join_The_Parade_Resprise.pdf)
+
 ### Partner in Crime (+ Pt. 2)
 <html lang="en">
 <head>
@@ -237,6 +239,9 @@
     </audio>
 </body>
 </html>
+
+[Download "Partner In Crime" Music](15_Partner_In_Crime.pdf)
+[Download "Partner In Crime (Part 2)" Music](16_Partner_In_Crime_(Part_2).pdf)
 
 ### Seventeen (+ End of Act 1)
 <html lang="en">
@@ -253,6 +258,9 @@
 </body>
 </html>
 
+[Download "Seventeen" Music](17_Seventeen.pdf)
+[Download "End Of Act 1" Music](18_End_Of_Act_1.pdf)
+
 ### Everything's Golden (+ Pt. 2)
 <html lang="en">
 <head>
@@ -267,6 +275,9 @@
     </audio>
 </body>
 </html>
+
+[Download "Everything's Golden" Music](19_Everythings_Golden.pdf)
+[Download "Everything's Golden (Part 2)" Music](20_Everythings_Golden_(Part_2).pdf)
 
 ### Everything's Golden Playoff
 <html lang="en">
@@ -283,6 +294,7 @@
 </body>
 </html>
 
+[Download "Everything's Golden Playoff" Music](21_Everythings_Golden_Playoff.pdf)
 
 ### Seventeen Reprise
 <html lang="en">
@@ -298,6 +310,8 @@
     </audio>
 </body>
 </html>
+
+[Download "Everything's Golden Playoff" Music](21_Everythings_Golden_Playoff.pdf)
 
 ### Time
 <html lang="en">
