@@ -237,7 +237,7 @@
 </head>
 <body>
     <audio controls>
-        <source src="16_Everything's Golden (+ Pt. 2).mp3" type="audio/mpeg">
+        <source src="16_Everythings_Golden_(+_Pt._2).mp3" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
 </body>
@@ -252,7 +252,7 @@
 </head>
 <body>
     <audio controls>
-        <source src="17_Everything's Golden Playoff.mp3" type="audio/mpeg">
+        <source src="17_Everythings_Golden_Playoff.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
 </body>
@@ -313,7 +313,7 @@
 </head>
 <body>
     <audio controls>
-        <source src="21_You Can't Trust a Man.mp3" type="audio/mpeg">
+        <source src="21_You_Cant_Trust_a_Man.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
 </body>
