@@ -73,14 +73,9 @@ Rehearsal Tracks for WCS' Tuck Everlasting made by Jack Nicodemus
 
 
 ### Everlasting
-# Audio File
-
-## Listen Here
 <audio controls>
   <source src="https://drive.google.com/uc?export=download&id=1Zo6HcyfepVpyyAJvL0UxOAJ1yLMo7iyx" type="audio/mp4">
-  Your browser does not support the audio element.
 </audio>
-
 
 ### The Wheel (Finale)
 
