@@ -18,7 +18,7 @@
 </body>
 </html>
 
-[Download the PDF](01_Opening.pdf)
+[Download "Opening"](01_Opening.pdf)
 
 ### Live Like This
 <html lang="en">
