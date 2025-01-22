@@ -35,6 +35,8 @@
 </body>
 </html>
 
+[Download "Live Like This"](02_Live_Like_This.pdf)
+
 ### Live Like This Playoff
 <html lang="en">
 <head>
