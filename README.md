@@ -117,7 +117,7 @@
 </head>
 <body>
     <audio controls>
-        <source src="08_Hugo's First Case.mp3" type="audio/mpeg">
+        <source src="08_Hugos_First_Case.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
 </body>
@@ -132,7 +132,7 @@
 </head>
 <body>
     <audio controls>
-        <source src="09_Hugo's First Case Reprise.mp3" type="audio/mpeg">
+        <source src="09_Hugos_First_Case_Reprise.mp3" type="audio/mpeg">
         Your browser does not support the audio element.
     </audio>
 </body>
