@@ -188,6 +188,9 @@
 </body>
 </html>
 
+[Download "My Most Beautiful Day" Music](11_My_Most_Beautiful_Day.pdf)
+[Download "Beautiful Day (Part 2)" Music](12_Beautiful_Day_(Part_2).pdf)
+
 ### From Attic to Porch
 <html lang="en">
 <head>
@@ -202,6 +205,8 @@
     </audio>
 </body>
 </html>
+
+[Download "From Attic to Poarch" Music](13_From_Attic_To_Porch.pdf)
 
 ### Join the Parade Reprise
 <html lang="en">
