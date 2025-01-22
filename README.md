@@ -71,7 +71,7 @@
 
 [Download "Good Girl Winnie Foster" Music](04_Good_Girl_Winnie_Foster.pdf)
 
-### Join the Parade
+### Join The Parade
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -86,7 +86,7 @@
 </body>
 </html>
 
-[Download "Join the Parade" Music](05_Join_The_Parade.pdf)
+[Download "Join The Parade" Music](05_Join_The_Parade.pdf)
 
 ### Good Girl Winnie Foster Reprise
 <html lang="en">
@@ -105,7 +105,7 @@
 
 [Download "Good Girl Winnie Foster Reprise" Music](06_Good_Girl_Winnie_Foster_Reprise.pdf)
 
-### Top of the World
+### Top Of The World
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -119,6 +119,8 @@
     </audio>
 </body>
 </html>
+
+[Download "Top Of The World" Music](07_Top_Of_The_World.pdf)
 
 ### Hugo's First Case
 <html lang="en">
@@ -135,6 +137,8 @@
 </body>
 </html>
 
+[Download "Hugo's First Case" Music](08_Hugos_First_Case.pdf)
+
 ### Hugo's First Case Reprise
 <html lang="en">
 <head>
@@ -150,7 +154,9 @@
 </body>
 </html>
 
-### Story of the Tucks
+[Download "Hugo's First Case Reprise" Music](09_Hugos_First_Case_Reprise.pdf)
+
+### Story Of The Tucks
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -164,6 +170,8 @@
     </audio>
 </body>
 </html>
+
+[Download "Story Of The Tucks" Music](10_Story_Of_The_Tucks.pdf)
 
 ### My Most Beautiful Day (+ Pt. 2)
 <html lang="en">
