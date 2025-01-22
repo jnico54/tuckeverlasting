@@ -1,5 +1,5 @@
 # <span style="color:green">Tuck Everlasting Custom Practice Tracks</span>
-## Rehearsal Tracks for WCS' Tuck Everlasting made by Jack Nicodemus. I hope these help with practicing! (made 01/21/2025)
+## <span style="color:#d3d3d3">Rehearsal Tracks for WCS’ Tuck Everlasting made by Jack Nicodemus. I hope these help with practicing! (made 01/21/2025)</span>
 
 
 
