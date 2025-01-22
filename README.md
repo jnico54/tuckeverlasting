@@ -18,7 +18,7 @@
 </body>
 </html>
 
-[Download "Opening"](01_Opening.pdf)
+[Download "Opening" Music](01_Opening.pdf)
 
 ### Live Like This
 <html lang="en">
@@ -35,7 +35,7 @@
 </body>
 </html>
 
-[Download "Live Like This"](02_Live_Like_This.pdf)
+[Download "Live Like This" Music](02_Live_Like_This.pdf)
 
 ### Live Like This Playoff
 <html lang="en">
@@ -52,6 +52,8 @@
 </body>
 </html>
 
+[Download "Live Like This Playoff" Music](03_Live_Like_This_Playoff.pdf)
+
 ### Good Girl Winnie Foster
 <html lang="en">
 <head>
@@ -66,6 +68,8 @@
     </audio>
 </body>
 </html>
+
+[Download "Good Girl Winnie Foster" Music](04_Good_Girl_Winnie_Foster.pdf)
 
 ### Join the Parade
 <html lang="en">
@@ -82,6 +86,8 @@
 </body>
 </html>
 
+[Download "Join the Parade" Music](05_Join_The_Parade.pdf)
+
 ### Good Girl Winnie Foster Reprise
 <html lang="en">
 <head>
@@ -96,6 +102,8 @@
     </audio>
 </body>
 </html>
+
+[Download "Good Girl Winnie Foster Reprise" Music](06_Good_Girl_Winnie_Foster_Reprise.pdf)
 
 ### Top of the World
 <html lang="en">
