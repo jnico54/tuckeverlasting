@@ -311,7 +311,7 @@
 </body>
 </html>
 
-[Download "Everything's Golden Playoff" Music](21_Everythings_Golden_Playoff.pdf)
+[Download "Seventeen (Reprise)" Music](22_Seventeen_(Reprise).pdf)
 
 ### Time
 <html lang="en">
@@ -328,6 +328,8 @@
 </body>
 </html>
 
+[Download "Time" Music](23_Time.pdf)
+
 ### Time Reprise (Quartet)
 <html lang="en">
 <head>
@@ -343,7 +345,9 @@
 </body>
 </html>
 
-### You Can't Trust a Man
+[Download "Time (Reprise)" Music](24_Time_(Reprise).pdf)
+
+### You Can't Trust A Man
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -357,6 +361,8 @@
     </audio>
 </body>
 </html>
+
+[Download "You Can't Trust A Man" Music](26_You_Cant_Trust_a_Man.pdf)
 
 ### The Wheel
 <html lang="en">
@@ -373,6 +379,8 @@
 </body>
 </html>
 
+[Download "The Wheel" Music](27_The_Wheel.pdf)
+
 ### Story of the Man in the Yellow Suit
 <html lang="en">
 <head>
@@ -387,6 +395,8 @@
     </audio>
 </body>
 </html>
+
+[Download "Story of the Man in the Yellow Suit" Music](28_Story_Of_The_Man_In_The_Yellow_Suit.pdf)
 
 ### Everlasting
 <html lang="en">
@@ -403,6 +413,8 @@
 </body>
 </html>
 
+[Download "Everlasting" Music](29_Everlasting.pdf)
+
 ### The Wheel (Finale)
 <html lang="en">
 <head>
@@ -417,6 +429,8 @@
     </audio>
 </body>
 </html>
+
+[Download "The Wheel (Finale)" Music](30_The_Wheel_(Finale).pdf)
 
 
 ### Created by Jack Nicodemus on 01/22/2025
