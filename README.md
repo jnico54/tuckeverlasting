@@ -50,13 +50,49 @@ Rehearsal Tracks for WCS' Tuck Everlasting made by Jack Nicodemus
 </html>
 
 ### Good Girl Winnie Foster
-
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Player</title>
+</head>
+<body>
+    <audio controls>
+        <source src="04_Good Girl Winnie Foster.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</body>
+</html>
 
 ### Join the Parade
-
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Player</title>
+</head>
+<body>
+    <audio controls>
+        <source src="05_Join the Parade.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</body>
+</html>
 
 ### Good Girl Winnie Foster Reprise
-
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Player</title>
+</head>
+<body>
+    <audio controls>
+        <source src="06_Good Girl Winnie Foster Reprise.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</body>
+</html>
 
 ### Top of the World
 
