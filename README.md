@@ -20,10 +20,34 @@ Rehearsal Tracks for WCS' Tuck Everlasting made by Jack Nicodemus
 
 
 ### Live Like This
-
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Player</title>
+</head>
+<body>
+    <audio controls>
+        <source src="02_Live Like This.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</body>
+</html>
 
 ### Live Like This Playoff
-
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Audio Player</title>
+</head>
+<body>
+    <audio controls>
+        <source src="03_Live Like This Playoff.mp3" type="audio/mpeg">
+        Your browser does not support the audio element.
+    </audio>
+</body>
+</html>
 
 ### Good Girl Winnie Foster
 
